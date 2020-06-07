@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="lab7_wcf_service.DictionaryService" CodeBehind="DictionaryService.svc.cs" %>
